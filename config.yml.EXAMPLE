@@ -1,0 +1,11 @@
+# Azure Datamarket Credentials
+# https://datamarket.azure.com/developer/applications
+
+client_id: your_azure_client_id
+client_secret: your_azure_client_secret
+
+# Language Config
+# https://msdn.microsoft.com/en-us/library/hh456380.aspx
+
+source_language: en
+destination_language: zh-CHS
