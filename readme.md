@@ -1,7 +1,10 @@
 # 翻译 Fanyi
 
-### Translate stuff.
+### Translate Stuff.
 Fanyi is a simple translation script that employs the free [Microsoft Translator API](http://www.microsoft.com/en-us/translator/getstarted.aspx) in order to translate a text file, line by line, into a different language. The script also allows for a custom list of excluded words or phrases such as branded terms like "Acme Company" and HTML entities.
+
+### Detailed Description
+See https://modjeska.us/fanyi-translation-script/
 
 ### Usage Synopsis
 Single file conversion:
